@@ -1,0 +1,105 @@
+
+
+.form{
+    background-color: rgb(177, 172, 172);
+    border-radius: 5px;
+    width: 800px;
+    margin: 20px auto;
+    padding: 20px 40px;
+     height: 400px; 
+}
+
+.form-body{
+    text-align: left;
+    padding: 60px 50px;
+    
+}
+
+.form-body > *{
+    padding: 5px;
+}
+
+.form__label{
+    width: 40%;
+}
+.block {
+    display: block;
+    width: 100%;
+    border: none;
+    background-color: black;
+    padding: 14px 28px;
+    font-size: 16px;
+    cursor: pointer;
+    text-align: center;
+  }
+  /*
+  .label{
+      padding: 20px 130px;
+      font-size: 30px;
+      color: #130f40;
+  }
+*/
+
+
+.form_input{
+    width: 60%;
+}
+
+.footer{
+    text-align: center;
+}
+
+.cardnumber{
+    font-size: 18px;
+    color:#130f40;
+    margin: 5px 0;
+}
+.Expirydate{
+    font-size: 18px;
+    color:#130f40;
+    margin: 5px 0;
+}
+.cvv{
+    font-size: 18px;
+    color:#130f40;
+    
+}
+.cardnumber input{
+    height: 35px;
+    width: 450px;
+    padding: 0 5px;
+    font-size: 18px;
+    outline:none;
+    border:1px solid silver
+}
+
+.Expirydate input{
+    height: 30px;
+    width: 250px;
+    padding: 0 5px;
+    font-size: 18px;
+    outline:none;
+    border:1px solid silver
+}
+
+.cvv input{
+    height: 30px;
+    width: 250px;
+    padding: 0 5px;
+    font-size: 18px;
+    outline:none;
+    border:1px solid silver
+}
+
+.nameoncard input{
+    height: 30px;
+    width: 450px;
+    padding: 0 5px;
+    font-size: 18px;
+    outline:none;
+    border:1px solid silver
+}
+
+button{
+    color: white;
+}

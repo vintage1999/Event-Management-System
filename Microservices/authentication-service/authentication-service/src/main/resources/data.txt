@@ -1,0 +1,2 @@
+insert into user(USER_ID,USERNAME,PASSWORD,ROLE) values (1,'abc@d.com','abc','ROLE_USER');
+insert into user(USER_ID,USERNAME,PASSWORD,ROLE) values (2,'stu@v.com','stu','ROLE_VENDOR');
